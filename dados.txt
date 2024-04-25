@@ -2,8 +2,8 @@ Dados do aluno
 
 -Primeiro Nome:Jefferson.
 -Profissão: teste
--Cidade:
--O que faz nas horas vaga:
+-Cidade:cotia
+-O que faz nas horas vaga: nada
 -Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
 
